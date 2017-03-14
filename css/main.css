@@ -5,10 +5,11 @@ body {
     font-size: 4em;
     padding: 50px;
     display: block;
-    height: 300px;
+    height: 200px;
+    width: 315px;
     padding-top: 100px;
     color: white;
     margin: 0px auto;
-    background: #16a085;
+    background: transparent;
     text-align: center;
     border-radius: 10px; }

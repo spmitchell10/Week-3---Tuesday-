@@ -8,7 +8,7 @@ var time = new Date(),
 document.body.style.background = color;
 
 
-document.querySelectorAll('.clock')[0].innerHTML= "#" + jackass(hours) + jackass(minutes) + jackass(seconds);
+document.querySelectorAll('.clock')[0].innerHTML = "#" + jackass(hours) + jackass(minutes) + jackass(seconds);
   
   function jackass(monsters) {
     if (monsters < 10) {
